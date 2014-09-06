@@ -9,6 +9,9 @@ BFT Specifications
 - Block time: 30 seconds
 - Pure Proof-of-Stake via integration to BFS
 
+Proof-of-Stake Stage
+- POS starts at genesis without stake interest per year and 12 hours to mature
+
 BFT Client
 ===
 Source: To Be Released
