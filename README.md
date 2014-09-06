@@ -22,7 +22,7 @@ Prerequisite :
 
 Window:
 1.    Download all three components: 
-	a)    BFS v0.8.6.3 (link)
+	a)    BFS v0.8.6.3
 	b)    bitfrogbtcd
 	c)    BFT
 
