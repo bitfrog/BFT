@@ -15,7 +15,7 @@ Source: To Be Released
 
 ```
 Prerequisite :
-1. Download and run BFS v0.8.6.3 in server
+1. Download and run BFS v0.8.6.3 with parameters -testnet and -gen
 
 Window:
 1.    Download all three components: 
