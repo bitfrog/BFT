@@ -23,7 +23,7 @@ Prerequisite :
 Window:
 1.    Download all three components: 
 	a)    BFS v0.8.6.3
-	b)    bitfrogbtcd
+	b)    bitfrogbtcd (https://github.com/bitfrogchain/bitfrogbtcd)
 	c)    BFT
 
 2. Start BFS with -server and -testnet
