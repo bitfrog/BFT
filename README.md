@@ -62,6 +62,7 @@ Sample bitcoin.conf file
 ```
 server=1
 testnet=1
+txindex=1
 
 #You must set rpcuser and rpcpassword to secure the JSON-RPC api
 rpcuser=btcrpcuser
