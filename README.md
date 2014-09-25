@@ -20,7 +20,7 @@ Source: To Be Released
 Prerequisite :
 1. Download and run BFS v0.8.6.3 with parameters -testnet and -gen
 
-Window:
+Window (Vista or above):
 1.    Download all three components: 
 	a)    BFS v0.8.6.3
 	b)    bitfrogbtcd (https://github.com/bitfrogchain/bitfrogbtcd)
